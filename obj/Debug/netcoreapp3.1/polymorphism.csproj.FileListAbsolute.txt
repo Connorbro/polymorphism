@@ -1,0 +1,12 @@
+/Users/admin/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.deps.json
+/Users/admin/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.json
+/Users/admin/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.dev.json
+/Users/admin/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.dll
+/Users/admin/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/admin/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csprojAssemblyReference.cache
+/Users/admin/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfoInputs.cache
+/Users/admin/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfo.cs
+/Users/admin/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.dll
+/Users/admin/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/admin/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.genruntimeconfig.cache
